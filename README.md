@@ -1,2 +1,1 @@
-# dipalmacs.github.io
- website
+#dipalmacs.com
